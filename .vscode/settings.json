@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/ratopythonista/repos/personal/nytimes-rpa/nytimes-robot/."
+    ]
+}
